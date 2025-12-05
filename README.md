@@ -1,43 +1,9 @@
 
 <h1 align="center">
-	Hi, I'm <a href="https://mayuelala.github.io/" target="_blank">Zebin Han (韩泽斌)</a> 👋<br>
+	Hi, I'm <a href="https://ZebinHan04.github.io/" target="_blank">Zebin Han (韩泽斌)</a> 👋<br>
 
-<a href="mayuelala.github.io.github.io" target="_blank"><img src="https://mayuelala.github.io/indexpics/sign.png" height="70px" style="margin-bottom:-1px"></a>
+
 </h1>
-Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My research lies at the intersection of “computer vision” and “machine learning” – with a special focus on "video generation", "video editing". If you have any questions about my projects, please feel free to send me an email(mayuefighting@gmail.com). Check my homepage(https://mayuelala.github.io/) to learn more about me.<br>
-<br>
+Welcome to my GitHub. Currently, I am  a 1st-year Master student at Southeast University. My research lies at the intersection of “Computer Vision” and “Robotic Learning” – with a special focus on "Vision-and-Language Navigation", "Vision-and-Language Action". If you have any questions about my projects, please feel free to send me an email(zebinhan04@gmail.com). Check my homepage(https://ZebinHan04.github.io/) to learn more about me. Please note that my other account is https://github.com/ZebinHan, but since I am currently unable to log in, updates have been suspended. It contains some course projects from my undergraduate studies.
 
-<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
-
-
-# 📎 Information
-<table width="100%">
-  <tr>
-    <td>🏠 <b>Homepage</b>: <a href="https://mayuelala.github.io" target="_blank">mayuelalatianxingchen.github.io</a></td>
-    <td>Google Scholar: <a href="https://scholar.google.com/citations?user=kwBR1ygAAAAJ&hl=zh-CN" target="_blank">Yue Ma (马跃)</a></td>
-    <td>Email: <a href="mailto:mayuefighting@gmail.com" target="_blank">mayuefighting@gmail.com</a></td>
-  </tr>
-	
-</table>
-
-### 👪 Follow Family:
-1. [Follow-Your-Pose](https://github.com/mayuelala/FollowYourPose) 💃🏻💃🏻: Pose-Guided video generation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourPose?style=social" />
-
-2. [Follow-Your-Pose v2](https://follow-your-pose-v2.github.io/) 🕺🕺: Character image animation for Stable Pose Control 
-
-3. [Follow-Your-Handle](https://github.com/mayuelala/FollowYourHandle) ✍🏻✍🏻: Controllable video editing <img src="https://img.shields.io/github/stars/mayuelala/FollowYourHandle?style=social" />
-
-4. [Follow-Your-Click](https://github.com/mayuelala/FollowYourClick) 💻💻: Regional image animation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourClick?style=social" />
-
-5. [Follow-Your-Emoji](https://github.com/mayuelala/FollowYourEmoji) 🤪🤪: Freestyle portrait animation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourEmoji?style=social" />
-
-6. [Follow-Your-Canvas](https://github.com/mayuelala/FollowYourCanvas) 🖼🖼: Higher-Resolution Video Outpainting <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
-
-7. [Follow-Your-Creation](https://github.com/mayuelala/FollowYourCreation) 📷📷: 4D Video Creation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
-
-8. [Follow-Your-Motion](https://github.com/mayuelala/FollowYourMotion) 🚗🚗: Training-based video motion transfer using DiT <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
-
-9. [Follow-Your-Shape](https://github.com/mayuelala/FollowYourShape) ✂️✂️: Shape-aware image editing <img src="https://img.shields.io/github/stars/mayuelala/FollowYourShape?style=social" />
-
-10. [Follow-Your-Instruction](https://github.com/mayuelala/FollowYourInstruction) 🤖🤖: A MLLM Agent for World Data Synthesis <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
  
